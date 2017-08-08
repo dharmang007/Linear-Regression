@@ -9,7 +9,7 @@ For Windows installation
     pip install numpy
     pip install pandas
 ```
-For Linux installtions 
+For Linux installation 
 ```
     sudo apt-get install python-pip
     sudo pip install numpy  
