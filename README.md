@@ -3,6 +3,19 @@
 - 1)numpy 
 - 2)pandas
 
+## Installation
+For Windows installation
+```
+    pip install numpy
+    pip install pandas
+```
+For Linux installtions 
+```
+    sudo apt-get install python-pip
+    sudo pip install numpy  
+    sudo pip install pandas
+```
+
 ## Steps :
 - 1: Run the file.
 - 2: Enter the file name(eg. f1.xlsx)
