@@ -8,12 +8,15 @@ For Windows installation
 ```
     pip install numpy
     pip install pandas
+    pip install matplotlib
+
 ```
 For Linux installation 
 ```
     sudo apt-get install python-pip
     sudo pip install numpy  
     sudo pip install pandas
+    sudo pip install matplotlib
 ```
 
 ## Steps :
